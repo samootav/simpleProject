@@ -1,4 +1,4 @@
-//appel feuille style
+<!-- appel feuille style -->
 <link href="style.css" type="text/css" rel="stylesheet" />
 <h1>
 <?php
